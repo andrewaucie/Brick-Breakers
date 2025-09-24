@@ -24,25 +24,25 @@ https://www.youtube.com/watch?v=0II7eruo9NU
 ---
 
 ## 🗂️ Project Structure
+```text
 Brick-Breakers/
-│── src/main/java/com/mycompany/game/
-│ ├── BrickBreaker.java # Main game entry point
-│ ├── Paddle.java # Player paddle logic
-│ ├── Ball.java # Ball mechanics and collision
-│ ├── Brick.java # Brick objects and durability
-│ ├── GamePanel.java # Rendering and game loop
-│ ├── Menu.java # Main menu interface
-│ ├── Instructions2.java # Instructions screen
-│ └── ... other supporting files
 │
-│── src/main/resources/
-│ ├── icon.png # Game icon
-│ └── additional assets
+├─ src/main/java/com/mycompany/game/
+│  ├─ BrickBreaker.java        # Main game entry point
+│  ├─ Paddle.java              # Player paddle logic
+│  ├─ Ball.java                # Ball mechanics and collision
+│  ├─ Brick.java               # Brick objects and durability
+│  ├─ GamePanel.java           # Rendering and game loop
+│  ├─ Menu.java                # Main menu interface
+│  ├─ Instructions2.java       # Instructions screen
+│  └─ (other supporting files)
 │
-└── README.md # Project documentation
-
-yaml
-Copy code
+├─ src/main/resources/
+│  ├─ icon.png                 # Game icon
+│  └─ (additional assets)
+│
+└─ README.md                   # Project documentation
+```
 
 ---
 
